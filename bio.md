@@ -19,3 +19,14 @@ I'm hoping that the course will help me discover what aspects of
 this very broad field would be best-suited for me.
 
 Programming Background:
+
+I've taken several programming courses in my past, and was fortunate
+enough to attend a high school that offered an extensive technology
+unit, offering electives like C++/Java programming, web development,
+database development, and I even collaborated with a teacher to
+develop the school's first game programming course.
+
+I took the accelerated introduction to computer science last quarter
+and found it quite enjoyable, my favorite project in that class was
+the final project, for which I created a slot machine game.
+
