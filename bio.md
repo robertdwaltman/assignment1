@@ -18,6 +18,15 @@ about the potential positions and what technologies they work with.
 I'm hoping that the course will help me discover what aspects of
 this very broad field would be best-suited for me.
 
+I've always been curious about web development, as the business
+world is seeing a trend of enterprise-level tools being moved to
+cloud-based environments. Individual workstations are gradually
+transitioning away from being unique working enviroments toward
+being interchangable interfaces for the same set of web-based 
+applications. Obviously there's a long way to go before anything
+can unseat the MS Office suite, but several very influential and
+talented companies are working on that exact thing!
+
 Programming Background:
 
 I've taken several programming courses in my past, and was fortunate
