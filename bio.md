@@ -13,3 +13,9 @@ tournament for the Android: Netrunner collectible card game
 and placed 29th overall.
 
 Programming Background:
+
+I've taken several programming courses in my past, and was fortunate
+enough to attend a high school that offered an extensive technology
+unit, offering electives like C++/Java programming, web development,
+database development, and I even collaborated with a teacher to
+develop the school's first game programming course.
