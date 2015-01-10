@@ -18,6 +18,9 @@ about the potential positions and what technologies they work with.
 I'm hoping that the course will help me discover what aspects of
 this very broad field would be best-suited for me.
 
+I'm currently in hiding after getting the attention of INTERPOL
+regarding some gemstones that may or may not have gone missing.
+
 Programming Background:
 
 I've taken several programming courses in my past, and was fortunate
